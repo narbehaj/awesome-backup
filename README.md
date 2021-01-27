@@ -11,6 +11,6 @@ Index
 -	[iPhone](#iphone)
 
 
-# GNU/Linux
+## GNU/Linux
 
 - [Borg](https://github.com/borgbackup/borg) - All in one backup script with compression and encryption
