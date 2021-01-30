@@ -14,3 +14,8 @@ Index
 ## GNU/Linux
 
 - [Borg](https://github.com/borgbackup/borg) - All in one backup script with compression and encryption
+
+
+## Android
+
+- [Autosync](https://play.google.com/store/apps/details?id=com.ttxapps.autosync) - Automatic file sync and backup tool that supports most common cloud providers
